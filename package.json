@@ -1,0 +1,19 @@
+{
+  "name": "kunwei",
+  "version": "0.0.0",
+  "description": "**WELCOME TO KODING!** You've said goodbye to your localhost and are ready to develop software in the cloud!",
+  "main": "abc.js",
+  "bin":{
+    "show":"./picture.js"  
+  },
+  "dependencies": {
+    "picture-tube": "~1.0.0",
+    "request": "~2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
